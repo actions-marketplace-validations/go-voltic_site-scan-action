@@ -1,5 +1,5 @@
 name: Go Voltic site scan
-description: Scores a public page for structure, AI visibility, speed, accessibility and trust, in the job summary.
+description: Scores a public page for structure, machine readability, speed, accessibility and trust, in the job summary.
 branding:
   icon: activity
   color: orange
